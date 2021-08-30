@@ -1,0 +1,13 @@
+<style>
+  <id>StyleInfoImpl--3ce91c4:17ae4fxxxaa:-7ff4</id>
+  <name>region_1_TOTAL_PERS</name>
+  <workspace>
+    <id>workspace_id</id>
+  </workspace>
+  <format>sld</format>
+  <languageVersion>
+    <version>1.1.0</version>
+  </languageVersion>
+  <filename>region_1_TOTAL_PERS.sld</filename>
+  <dateCreated>2021-07-26 23:33:01.917 UTC</dateCreated>
+</style>
