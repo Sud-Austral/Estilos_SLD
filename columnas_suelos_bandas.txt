@@ -1,0 +1,10 @@
+Index(['COMUNA', 'NOM_COMUNA', 'REGION', 'NOM_REGION', 'PROVINCIA',
+       'NOM_PROVIN', 'Descriptor', 'bdod_0-5cm_mean', 'bdod_100-200cm_mean',
+       'bdod_15-30cm_mean',
+       ...
+       'soc_100-200cm_mean g/cm3', 'soc_100-200cm_mean kg/m3',
+       'soc_15-30cm_mean g/cm3', 'soc_15-30cm_mean kg/m3',
+       'soc_30-60cm_mean g/cm3', 'soc_30-60cm_mean kg/m3',
+       'soc_5-15cm_mean g/cm3', 'soc_5-15cm_mean kg/m3',
+       'soc_60-100cm_mean g/cm3', 'soc_60-100cm_mean kg/m3'],
+      dtype='object', length=158)
